@@ -1,0 +1,14 @@
+#############################
+#############################
+## Prettier Linter Rules   ##
+##    Paige MacFarlane     ##
+#############################
+#############################
+
+{
+  "trailingComma": "es5",
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "useTabs": false
+}
